@@ -1,0 +1,51 @@
+.slide2_main {
+    background: url(./images/bg02.jpg) no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+
+.slide2_up {
+    width: 100%;
+    background-size: 100%;
+    position: absolute;
+    top: 5%;
+}
+
+.slide2_main span {
+    background: url(./images/f/slide_to_up.png)top center no-repeat;
+    width: 100%;
+    background-size: 40rem 40rem;
+    height: 30rem;
+    display: inline-block;
+}
+
+.slide2_wu {
+    background: url(./images/a-19.png) no-repeat bottom;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    position: absolute;
+}
+
+.scene-02title {
+
+    position: relative;
+    text-align: center;
+    /* width: 137px; */
+    /* height: 20px; */
+    font-size: 20px;
+    font-family: DFPHeiW9;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 12rem;
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.56);
+    margin-top: 2rem;
+}
+
+.scene-02Img {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    height: 0rem;
+}

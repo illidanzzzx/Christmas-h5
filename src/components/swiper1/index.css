@@ -1,0 +1,178 @@
+.scene-01 {
+    background-image: url(images/bg01.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+.scene-01 .img-010 {
+    height: 47rem;
+    left: 0rem;
+    position: absolute;
+    /* bottom: 3rem; */
+    width: 7rem;
+}
+
+.scene-01 .img-01 {
+    height: 2.25rem;
+    right: 0;
+    position: absolute;
+    bottom: 23.5rem;
+    right: 6rem;
+    display: none;
+}
+
+.scene-01 .img-02 {
+    height: 6.25rem;
+    right: 0;
+    position: absolute;
+    bottom: 12rem;
+}
+
+.scene-01 .img-03 {
+    animation-duration: 6s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    width: 1.38rem;
+    height: 2rem;
+    left: 12rem;
+    position: absolute;
+    bottom: 10rem;
+    display: none;
+}
+
+.scene-01 .img-04 {
+    animation-duration: 1s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    width: 1.13rem;
+    height: 1.13rem;
+    left: 3rem;
+    position: absolute;
+    bottom: 14rem;
+    display: none;
+}
+
+.scene-01 .img-05 {
+    animation-duration: 4s;
+    /* animation-delay: 2s; */
+    animation-iteration-count: infinite;
+    left: 8rem;
+    width: 1.67rem;
+    height: 2rem;
+    right: 0rem;
+    position: absolute;
+    bottom: 7rem;
+    display: none;
+}
+
+.scene-01 .img-06 {
+    width: 3.67rem;
+    height: 3.88rem;
+    position: absolute;
+    bottom: 5rem;
+    left: 8.69rem;
+}
+
+.scene-01 .img-07 {
+    width: 1.81rem;
+    height: 2rem;
+    left: 1rem;
+    position: absolute;
+    bottom: 12rem;
+}
+
+.scene-01 .img-08 {
+    width: 5rem;
+    height: 5.56rem;
+    right: 0rem;
+    position: absolute;
+    bottom: 0rem;
+}
+
+.scene-01 .img-09 {
+    width: 1.25rem;
+    height: 2.18rem;
+    left: 2.81rem;
+    position: absolute;
+    bottom: 15.5rem;
+}
+
+.scene-01 .img-10 {
+    left: 1rem;
+    position: absolute;
+    bottom: 15rem;
+}
+
+.scene-01 .img-11 {
+    width: 23rem;
+}
+
+.scene-01 .img-12 {
+    left: 7rem;
+    position: absolute;
+    bottom: 10rem;
+}
+
+.scene-01 .img-13 {
+    height: 43rem;
+    right: 0;
+    position: absolute;
+    top: 0;
+    width: 15rem;
+}
+
+.scene-01 .img-16 {
+    width: 0.8rem;
+    height: 0.6rem;
+    bottom: 9rem;
+    z-index: 999;
+    position: absolute;
+    left: 10rem;
+}
+
+.scene-01 .img-15 {
+    height: 2.25rem;
+    right: 6rem;
+    position: absolute;
+    bottom: 7rem;
+    display: none;
+}
+
+.scene-01 .img-16 {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    left: 5.5rem;
+    position: absolute;
+    top: 1rem;
+}
+
+.scene-01 .img-17 {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    left: 5.5rem;
+    position: absolute;
+    top: 5rem;
+}
+
+.scene-01 .img-18 {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    right: 6rem;
+    position: absolute;
+    bottom: 7rem;
+}
+
+.scene-01 .img-19 {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    right: 6rem;
+    position: absolute;
+    bottom: 7rem;
+}
